@@ -1,2 +1,2 @@
 # first-repo
-just to learn
+this repo is for created for learning purpose.
